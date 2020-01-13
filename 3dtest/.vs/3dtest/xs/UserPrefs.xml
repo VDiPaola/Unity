@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{F450A4C5-23EF-B22D-6545-D20B796FA136}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/probe.cs">
+    <Files>
+      <File FileName="Assets/scripts/controls.cs" Line="86" Column="13" />
+      <File FileName="Assets/scripts/rocket.cs" />
+      <File FileName="Assets/scripts/explosionDestroy.cs" />
+      <File FileName="Assets/scripts/pointsmenu.cs" />
+      <File FileName="Assets/linetest.cs" />
+      <File FileName="Assets/scripts/probe.cs" Line="64" Column="67" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3dtest" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="probe.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="71e61f31-184b-4d67-9801-7fc4b1d4c5ee" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
